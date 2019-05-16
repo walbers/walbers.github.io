@@ -17,7 +17,7 @@ highlighter: rouge
 paginate: 15
 paginate_path: "/blog/page:num/"
 
-
+# TODO change
 collections:
   portfolio:
     output: true
@@ -26,4 +26,4 @@ collections:
     output: true
     permalink: /poetry/:path/
 
-
+ecxlude: ["README.md", "todo.md"]

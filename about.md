@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.png">
 
 <br/>
-Hi I'm Will Albers. I'm currently going into my Junior year at the University Of Illinois Urbana-Champaign studying Computer Science. I'm interested in computer security, artificial intelligence, systems programming, and geography.
+Hi I'm Will Albers. I'm currently going into my Junior year at the University Of Illinois Urbana-Champaign studying Computer Science. I'm interested in computer security, artificial intelligence, systems programming, geography and nice pictures.
 My interests in these studies led me to create this website to show the world my different <a href="http://walbers.github.io/projects" target="blank">projects and ideas</a> relating to these interests.
 
 I have also followed these ideas through a variety of avenues. Throughout high school I tutored students in math and computer science as well as programming for the school's robotics team. I also formed a small startup (<a href="http://www.tycho.technology/" target="blank">tycho</a>) that helps small businesses in my city that could not afford the cost of a site from a large web development company by building them a functional and high-quality website.
