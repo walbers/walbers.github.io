@@ -1,0 +1,15 @@
+---
+layout: post
+title: starting this website
+date: 2019-05-16 2:32:00
+description: jekyll is pretty cool
+---
+I was inspired to build this site when I saw a friend execute a similar idea. I had a shoddy simple personal website before this one, and was very dissatisfied with it. After watching a friend execute his site and reading his posts I knew my site was coming after finals had finished.
+
+I happened to find the perfect tool for me as well, Jekyll. I discovered that it took away a lot of the hassle and annoying parts of building a site while still providing for complete control over the fine details. It is also surprisingly very easy to pick up. Learning Jekyll and building this site took under twenty hours of work. Mainly thanks to the <a href="https://jekyllrb.com/" target="blank">Jekyll site</a> which contains tons of documentation.
+
+Excited about this project!
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/ch_adventure.jpg">
+</div>

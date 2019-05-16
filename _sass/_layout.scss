@@ -63,10 +63,10 @@ display: line;
     z-index: 25;
     h1{
         color: $theme-color;
-        font-size:75px;
+        font-size:50px;
     }
     h2{
-        font-size:25px;
+        font-size:20px;
     }
 }
 
@@ -145,6 +145,7 @@ margin-bottom: $vertical-spacing-unit;
 font-size: 42px;
 letter-spacing: -1px;
 line-height: 1;
+color: $theme-color;
 @include media-query($on-laptop) {
 font-size: 36px;
     }

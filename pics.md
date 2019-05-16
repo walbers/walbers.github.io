@@ -3,13 +3,13 @@ layout: page
 title: pics
 permalink: /pics/
 ---
-
+Under construction
 {% for project in site.pics %}
 
 {% if project.redirect %}
 <div class="project">
     <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
+        <a href="{{ project.redirect }}" target="blank">
         {% if project.img %}
         <img class="thumbnail" src="{{ project.img }}"/>
         {% else %}
