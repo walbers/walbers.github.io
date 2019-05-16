@@ -15,6 +15,8 @@ I have also followed these ideas through a variety of avenues. Throughout high s
 Here at college I have joined UIUC's <a href="https://sigpwny.github.io/" target="blank">computer security club</a> as well as joining UIUC's <a href="https://acdis.illinois.edu/" target="blank">ACDIS club</a>, a club to learn, discuss, and debate  international events and politics. This site also presents the projects I have done while at UIUC. I hope to continue these passions and update this site with my new projects and discoveries.
 
 For fun I enjoy video games, listening to podcasts, running, and reading.
+<br/>
+Fun facts: I like to eat limes and my favorite animal is the octopus!
 
 
 Send any questions or ideas to walbers2<b class="bold">AT</b>illinois<b class="bold">DOT</b>edu

@@ -1,9 +1,11 @@
 ---
 layout: page
-permalink: /poetry/
-title: poetry
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+permalink: /maps/
+title: maps
+description: Here are some cool maps.
 ---
+
+This is under construction for the moment.
 
 <ul class="post-list">
 {% for poem in site.poetry reversed %}
